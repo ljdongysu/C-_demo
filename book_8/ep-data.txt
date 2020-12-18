@@ -1,0 +1,7 @@
+Focal length of objective:0mm
+f.1. eyepiece  magnigication
+         0.0              0
+         0.0        6299112
+         0.0              0
+         0.0              0
+         0.0        6299112

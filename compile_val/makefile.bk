@@ -1,0 +1,2 @@
+functiona.o:./date/functiona.cpp ./date/functiona.h
+	g++  -c ./date/functiona.cpp -o functiona.o

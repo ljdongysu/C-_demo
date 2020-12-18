@@ -1,0 +1,6 @@
+/home/ljdong/code/c++/compile_val/test_cmake/hello/build/CMakeFiles/rebuild_cache.dir
+/home/ljdong/code/c++/compile_val/test_cmake/hello/build/CMakeFiles/edit_cache.dir
+/home/ljdong/code/c++/compile_val/test_cmake/hello/build/CMakeFiles/hello2.dir
+/home/ljdong/code/c++/compile_val/test_cmake/hello/build/src/CMakeFiles/rebuild_cache.dir
+/home/ljdong/code/c++/compile_val/test_cmake/hello/build/src/CMakeFiles/edit_cache.dir
+/home/ljdong/code/c++/compile_val/test_cmake/hello/build/src/CMakeFiles/Test.dir
